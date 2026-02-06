@@ -60,10 +60,10 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 
 <div align="center">
 
-| | Achievement | Result |
-|:---:|:---|:---|
-| <img src="https://img.shields.io/badge/%E2%97%86-D4AF37?style=flat-square&labelColor=0D1117&color=0D1117" height="24"/> | Built an **anti-scam system** from scratch — multi-AI pipeline for document validation and fraud detection | ![result](https://img.shields.io/badge/Saved_$200k+/year-D4AF37?style=flat-square&labelColor=0D1117) |
-| <img src="https://img.shields.io/badge/%E2%97%86-D4AF37?style=flat-square&labelColor=0D1117&color=0D1117" height="24"/> | **Monolith → microservices** refactor + consolidating instances into a single scalable module under K8s | ![result](https://img.shields.io/badge/Saved_€60k+/year-D4AF37?style=flat-square&labelColor=0D1117) |
+| Achievement | Result |
+|:---|---:|
+| Built an **anti-scam system** from scratch — multi-AI pipeline for document validation and fraud detection | **$200k+ / year saved** |
+| **Monolith → microservices** refactor + consolidating instances into a single scalable module under K8s | **€60k+ / year saved** |
 
 </div>
 
