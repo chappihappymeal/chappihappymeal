@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="310" viewBox="0 0 820 310">
+  <defs>
+    <linearGradient id="bar93" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#D4AF37"/>
+    </linearGradient>
+    <linearGradient id="bar87" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#C9A832"/>
+    </linearGradient>
+    <linearGradient id="bar80" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#B8972D"/>
+    </linearGradient>
+    <linearGradient id="bar67" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#A08228"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="300" height="16" rx="4" ry="4"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="820" height="310" rx="10" fill="#0D1117"/>
+  <rect width="820" height="310" rx="10" fill="none" stroke="#1a1a2e" stroke-width="1"/>
+
+  <!-- Row 1: Architecture -->
+  <text x="30" y="45" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="600" fill="#D4AF37">Architecture</text>
+  <g transform="translate(180, 32)">
+    <rect width="300" height="16" rx="4" fill="#161B22"/>
+    <rect width="280" height="16" rx="4" fill="url(#bar93)"/>
+  </g>
+  <text x="500" y="45" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8B8B8B">Monoliths → Microservices, K8s-native with HPA</text>
+
+  <!-- Row 2: Go -->
+  <text x="30" y="85" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="600" fill="#D4AF37">Go</text>
+  <g transform="translate(180, 72)">
+    <rect width="300" height="16" rx="4" fill="#161B22"/>
+    <rect width="280" height="16" rx="4" fill="url(#bar93)"/>
+  </g>
+  <text x="500" y="85" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8B8B8B">Primary language, production-grade systems</text>
+
+  <!-- Row 3: AI Integration -->
+  <text x="30" y="125" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="600" fill="#D4AF37">AI Integration</text>
+  <g transform="translate(180, 112)">
+    <rect width="300" height="16" rx="4" fill="#161B22"/>
+    <rect width="260" height="16" rx="4" fill="url(#bar87)"/>
+  </g>
+  <text x="500" y="125" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8B8B8B">Multi-AI controllers, OCR, document validation</text>
+
+  <!-- Row 4: Infrastructure -->
+  <text x="30" y="165" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="600" fill="#D4AF37">Infrastructure</text>
+  <g transform="translate(180, 152)">
+    <rect width="300" height="16" rx="4" fill="#161B22"/>
+    <rect width="260" height="16" rx="4" fill="url(#bar87)"/>
+  </g>
+  <text x="500" y="165" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8B8B8B">Bare metal → Docker → K8s, message brokers</text>
+
+  <!-- Row 5: Python -->
+  <text x="30" y="205" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="600" fill="#D4AF37">Python</text>
+  <g transform="translate(180, 192)">
+    <rect width="300" height="16" rx="4" fill="#161B22"/>
+    <rect width="240" height="16" rx="4" fill="url(#bar80)"/>
+  </g>
+  <text x="500" y="205" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8B8B8B">Scripting, automation, AI/ML pipelines</text>
+
+  <!-- Row 6: Solana / Anchor -->
+  <text x="30" y="245" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="600" fill="#D4AF37">Solana / Anchor</text>
+  <g transform="translate(180, 232)">
+    <rect width="300" height="16" rx="4" fill="#161B22"/>
+    <rect width="200" height="16" rx="4" fill="url(#bar67)"/>
+  </g>
+  <text x="500" y="245" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8B8B8B">Smart contracts, devnet, localnet</text>
+
+  <!-- Row 7: Team Leadership -->
+  <text x="30" y="285" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="600" fill="#D4AF37">Team Leadership</text>
+  <g transform="translate(180, 272)">
+    <rect width="300" height="16" rx="4" fill="#161B22"/>
+    <rect width="240" height="16" rx="4" fill="url(#bar80)"/>
+  </g>
+  <text x="500" y="285" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8B8B8B">Code reviews, mentoring, project management</text>
+
+</svg>

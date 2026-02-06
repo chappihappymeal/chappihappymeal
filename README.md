@@ -131,15 +131,9 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 
 ## <samp>Expertise</samp>
 
-```
-Architecture        ████████████████████████████░░  Monoliths → Microservices, K8s-native with HPA
-Go                  ████████████████████████████░░  Primary language, production-grade systems
-AI Integration      ██████████████████████████░░░░  Multi-AI controllers, OCR, document validation
-Infrastructure      ██████████████████████████░░░░  Bare metal → Docker → K8s, message brokers
-Solana / Anchor     ████████████████████░░░░░░░░░░  Smart contracts, devnet, localnet
-Python              ██████████████████████████░░░░  Scripting, automation, AI/ML pipelines
-Team Leadership     ██████████████████████████░░░░  Code reviews, mentoring, project management
-```
+<div align="center">
+<img src="./expertise.svg" width="100%"/>
+</div>
 
 <br>
 
