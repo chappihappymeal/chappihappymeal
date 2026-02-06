@@ -15,7 +15,7 @@
 ## <samp>About Me</samp>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Architecture_&_Backend-D4AF37?style=for-the-badge&labelColor=0D1117&logo=buffer&logoColor=D4AF37"/></summary>
+<summary><img src="https://img.shields.io/badge/Architecture_%26_Backend-D4AF37?style=for-the-badge&labelColor=0D1117&logo=buffer&logoColor=D4AF37"/></summary>
 <br>
 
 Designing system architecture from scratch and refactoring legacy monoliths into scalable microservices under **Kubernetes with HPA**. Primary language — **Go**. Building production-grade, fault-tolerant services with clean code and solid documentation.
@@ -23,7 +23,7 @@ Designing system architecture from scratch and refactoring legacy monoliths into
 </details>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/AI_Integration_&_Automation-D4AF37?style=for-the-badge&labelColor=0D1117&logo=openai&logoColor=D4AF37"/></summary>
+<summary><img src="https://img.shields.io/badge/AI_Integration_%26_Automation-D4AF37?style=for-the-badge&labelColor=0D1117&logo=dependabot&logoColor=D4AF37"/></summary>
 <br>
 
 Integrating AI into business processes — from code automation to building **multi-AI controllers** for document recognition, validation, and anti-scam. Creating resilient multi-model pipelines that handle failures gracefully.
@@ -31,7 +31,7 @@ Integrating AI into business processes — from code automation to building **mu
 </details>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Infrastructure_&_DevOps-D4AF37?style=for-the-badge&labelColor=0D1117&logo=docker&logoColor=D4AF37"/></summary>
+<summary><img src="https://img.shields.io/badge/Infrastructure_%26_DevOps-D4AF37?style=for-the-badge&labelColor=0D1117&logo=docker&logoColor=D4AF37"/></summary>
 <br>
 
 Setting up full servers from **bare metal** — configs, networking, orchestration, deployment. Docker, Kubernetes, Redis, RabbitMQ, S3/MinIO — can wire it all up from zero.
@@ -78,7 +78,7 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=D4AF37)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D4AF37)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=D4AF37)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=D4AF37)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=D4AF37)
 ![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=D4AF37)
 ![Rust](https://img.shields.io/badge/Anchor_(Rust)-0D1117?style=for-the-badge&logo=rust&logoColor=D4AF37)
 
@@ -102,8 +102,8 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=D4AF37)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=D4AF37)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=D4AF37)
-![AWS S3](https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=D4AF37)
-![MinIO](https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=minio&logoColor=D4AF37)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=D4AF37)
+![MinIO](https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=cloudflare&logoColor=D4AF37)
 
 </details>
 
