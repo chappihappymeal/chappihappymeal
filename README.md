@@ -132,7 +132,7 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 ## <samp>Expertise</samp>
 
 <div align="center">
-<img src="./expertise.svg" width="100%"/>
+<img src="./expertise.svg?v=2" width="100%"/>
 </div>
 
 <br>
