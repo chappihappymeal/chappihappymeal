@@ -62,8 +62,8 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 
 | | Achievement | Result |
 |:---:|:---|:---|
-| :shield: | Built an **anti-scam system** from scratch — multi-AI pipeline for document validation and fraud detection | **Saved $200k+ / year** |
-| :wrench: | **Monolith → microservices** refactor + consolidating instances into a single scalable module under K8s | **Saved €60k+ / year** |
+| <img src="https://img.shields.io/badge/%E2%97%86-D4AF37?style=flat-square&labelColor=0D1117&color=0D1117" height="24"/> | Built an **anti-scam system** from scratch — multi-AI pipeline for document validation and fraud detection | ![result](https://img.shields.io/badge/Saved_$200k+/year-D4AF37?style=flat-square&labelColor=0D1117) |
+| <img src="https://img.shields.io/badge/%E2%97%86-D4AF37?style=flat-square&labelColor=0D1117&color=0D1117" height="24"/> | **Monolith → microservices** refactor + consolidating instances into a single scalable module under K8s | ![result](https://img.shields.io/badge/Saved_€60k+/year-D4AF37?style=flat-square&labelColor=0D1117) |
 
 </div>
 
@@ -137,20 +137,8 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 
 <br>
 
-## <samp>GitHub Stats</samp>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chappihappymeal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9B06B&ring_color=D4AF37" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chappihappymeal&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9B06B" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chappihappymeal&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9B06B&currStreakNum=C9B06B&sideNums=C9B06B&dates=555555" width="520"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
