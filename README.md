@@ -15,7 +15,7 @@
 ## <samp>About Me</samp>
 
 <details open>
-<summary><b>Architecture & Backend</b></summary>
+<summary><img src="https://img.shields.io/badge/Architecture_&_Backend-D4AF37?style=for-the-badge&labelColor=0D1117&logo=buffer&logoColor=D4AF37"/></summary>
 <br>
 
 Designing system architecture from scratch and refactoring legacy monoliths into scalable microservices under **Kubernetes with HPA**. Primary language — **Go**. Building production-grade, fault-tolerant services with clean code and solid documentation.
@@ -23,7 +23,7 @@ Designing system architecture from scratch and refactoring legacy monoliths into
 </details>
 
 <details open>
-<summary><b>AI Integration & Automation</b></summary>
+<summary><img src="https://img.shields.io/badge/AI_Integration_&_Automation-D4AF37?style=for-the-badge&labelColor=0D1117&logo=openai&logoColor=D4AF37"/></summary>
 <br>
 
 Integrating AI into business processes — from code automation to building **multi-AI controllers** for document recognition, validation, and anti-scam. Creating resilient multi-model pipelines that handle failures gracefully.
@@ -31,7 +31,7 @@ Integrating AI into business processes — from code automation to building **mu
 </details>
 
 <details open>
-<summary><b>Infrastructure & DevOps</b></summary>
+<summary><img src="https://img.shields.io/badge/Infrastructure_&_DevOps-D4AF37?style=for-the-badge&labelColor=0D1117&logo=docker&logoColor=D4AF37"/></summary>
 <br>
 
 Setting up full servers from **bare metal** — configs, networking, orchestration, deployment. Docker, Kubernetes, Redis, RabbitMQ, S3/MinIO — can wire it all up from zero.
@@ -39,7 +39,7 @@ Setting up full servers from **bare metal** — configs, networking, orchestrati
 </details>
 
 <details open>
-<summary><b>Blockchain</b></summary>
+<summary><img src="https://img.shields.io/badge/Blockchain-D4AF37?style=for-the-badge&labelColor=0D1117&logo=solana&logoColor=D4AF37"/></summary>
 <br>
 
 Writing **smart contracts on Solana** using **Anchor framework**. Working with devnet, localnet, and mainnet deployments.
@@ -47,7 +47,7 @@ Writing **smart contracts on Solana** using **Anchor framework**. Working with d
 </details>
 
 <details open>
-<summary><b>Leadership</b></summary>
+<summary><img src="https://img.shields.io/badge/Leadership-D4AF37?style=for-the-badge&labelColor=0D1117&logo=teamspeak&logoColor=D4AF37"/></summary>
 <br>
 
 Managing dev teams, owning projects end-to-end, running non-stop code reviews. Balancing hands-on engineering with technical leadership.
