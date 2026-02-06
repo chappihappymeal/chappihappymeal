@@ -14,23 +14,45 @@
 
 ## <samp>About Me</samp>
 
-```js
-const engineer = {
-    role:       "Senior Backend Engineer / Tech Lead / Architect",
-    focus:      ["High-load systems", "AI integration", "Cost optimization"],
-    approach:   "Clean code, solid docs, AI-assisted development",
-    philosophy: "AI is a tool for accelerating delivery, not a replacement for thinking",
-    leadership: "Dev teams, project ownership, non-stop code reviews"
-};
-```
+<details open>
+<summary><b>Architecture & Backend</b></summary>
+<br>
 
-> **What I do**
->
-> Designing architecture from scratch. Refactoring legacy monoliths into scalable microservices
-> under **Kubernetes with HPA**. Integrating AI into business processes — from automation to
-> building **multi-AI controllers** for document recognition, validation, and anti-scam.
-> Setting up full servers from **bare metal** through configs, orchestration, and deployment.
-> Writing **smart contracts on Solana** — devnet, localnet, mainnet.
+Designing system architecture from scratch and refactoring legacy monoliths into scalable microservices under **Kubernetes with HPA**. Primary language — **Go**. Building production-grade, fault-tolerant services with clean code and solid documentation.
+
+</details>
+
+<details open>
+<summary><b>AI Integration & Automation</b></summary>
+<br>
+
+Integrating AI into business processes — from code automation to building **multi-AI controllers** for document recognition, validation, and anti-scam. Creating resilient multi-model pipelines that handle failures gracefully.
+
+</details>
+
+<details open>
+<summary><b>Infrastructure & DevOps</b></summary>
+<br>
+
+Setting up full servers from **bare metal** — configs, networking, orchestration, deployment. Docker, Kubernetes, Redis, RabbitMQ, S3/MinIO — can wire it all up from zero.
+
+</details>
+
+<details open>
+<summary><b>Blockchain</b></summary>
+<br>
+
+Writing **smart contracts on Solana** using **Anchor framework**. Working with devnet, localnet, and mainnet deployments.
+
+</details>
+
+<details open>
+<summary><b>Leadership</b></summary>
+<br>
+
+Managing dev teams, owning projects end-to-end, running non-stop code reviews. Balancing hands-on engineering with technical leadership.
+
+</details>
 
 <br>
 
