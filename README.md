@@ -60,10 +60,10 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 
 <div align="center">
 
-| Achievement | Result |
-|:---|---:|
-| Built an **anti-scam system** from scratch — multi-AI pipeline for document validation and fraud detection | **$200k+ / year saved** |
-| **Monolith → microservices** refactor + consolidating instances into a single scalable module under K8s | **€60k+ / year saved** |
+| | Achievement | Result |
+|:---:|:---|---:|
+| $\color{#D4AF37}{\Large◆}$ | Built an **anti-scam system** from scratch — multi-AI pipeline for document validation and fraud detection | $\color{#D4AF37}{\textsf{\textbf{Saved \$200k+ / year}}}$ |
+| $\color{#D4AF37}{\Large◆}$ | **Monolith → microservices** refactor + consolidating instances into a single scalable module under K8s | $\color{#D4AF37}{\textsf{\textbf{Saved €60k+ / year}}}$ |
 
 </div>
 
