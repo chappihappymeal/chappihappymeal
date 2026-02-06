@@ -102,7 +102,7 @@ Managing dev teams, owning projects end-to-end, running non-stop code reviews. B
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=D4AF37)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=D4AF37)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=D4AF37)
-![AWS S3](https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=amazon&logoColor=D4AF37)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=icloud&logoColor=D4AF37)
 ![MinIO](https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=cloudflare&logoColor=D4AF37)
 
 </details>
